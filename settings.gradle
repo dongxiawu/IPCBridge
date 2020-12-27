@@ -1,2 +1,3 @@
+include ':ipcbridge'
 include ':app'
 rootProject.name = "IPCBridge"
